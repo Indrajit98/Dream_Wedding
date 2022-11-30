@@ -1,0 +1,55 @@
+[
+    {
+        "service_name": "Wedding Planning",
+        "balance": "$2,319.98",
+        "picture": "https://i.ibb.co/B3vGVzq/Wedding-Planning.jpg",
+        "rating": 4.8,
+        "details": "As a wedding planner, your job is to eliminate the stress couples feel when they are planning for their big day. Luckily, your organizational skills and natural knack for streamlining mean you know how not to accept all of that stress on to yourself. This is especially true when you apply modern technologies, such as text messaging, to your wedding planning business.As pointed out by Pew Research Center, more than 75% of adult Americans own a smartphone and 92% of smartphone owners use their phones to send and receive text messages. It is very wise, therefore, for wedding planners to use text messaging as a way to reach the people they need to connect with.",
+        "service_id": "1"
+    },
+    {
+       
+        "service_name": "Cake Design",
+        "balance": "$159.98",
+        "picture": "https://i.ibb.co/WfMJNrq/Cake-Design.jpg",
+        "rating": 4.8,
+        "details": "Monograms have been a part of history since the Middle Ages. While it was originally a way for artists to claim their work, it eventually transitioned into a purely decorative embellishment and a nice way to personalize any given design. Whether you’re creating monogramed cookies to welcome a new baby or placing a monogram at the center of a wedding cake, a decorative monogram can represent people in many different ways.",
+        "service_id": "2"
+    },
+    {
+        
+        "service_name": "Event Planning",
+        "balance": "$2,019.98",
+        "picture": "https://i.ibb.co/PMFDFnP/Evnet-Planning.jpg",
+        "rating": 4.8,
+        "details": "An event is a complex operation that takes place in real time. There is no room for delays and miscommunications. Our team of expert event wizards, some with over 20 years of experience in the industry, will move your event forward with precision. Their event management experience covers a wide range of events, international and domestic, and they are always ready to provide instant solutions. Bangkok Event Company We spare no efforts to plan the event meticulously by leaving no room for unexpected eventualities.  We will design the event with you, following your direction and themes. We will arrange all the needed equipment and services. But once your event starts, it’s all about synchronization. Our people will scrupulously check and recheck that all the parts work as a whole in the right hour, minute and second. From lighting to sound, catering to entertainment, digital content display to special effect, photography and video recording to transportation, we are present in every specific component of your event. Team Building Activities Bangkok.",
+        "service_id": "3"
+    },
+    {
+       
+        "service_name": "Photography",
+        "balance": "$2,209.98",
+        "picture": "https://i.ibb.co/Lr0BBp5/Photograpy.jpg",
+        "rating": 4.8,
+        "details": "Amazingly, the ability to freeze and capture moments in time has become a mundane fact. Most people agree that photography is an art form. Only a select few possess the eye and instinct of a photographer. A sense of perspective and spatial awareness is always necessary.Those qualities also apply to website design. For photographers, a website can offer an unprecedented level of exposure. In an instant, works of art can be shared with the entire world. This unmediated connection between artists and fans can only take place online.",
+        "service_id": "4"
+    },
+    {
+       
+        "service_name": "Guest List",
+        "balance": "$2,339.98",
+        "picture": "https://i.ibb.co/sK3Ry1j/Guest-List.jpg",
+        "rating": 4.8,
+        "details": "You can use the traditional “request the honor” or you can be more creative with how you issue the formal invitation to your wedding or other event. Here are some examples of invitation wording to get you thinking more creatively. We request the honor of your presence… (Or be very British and say “honour” and “favour” just to sound more special!)We request the pleasure of your company… Together with our parents, we invite you We ask you to be present with us at the ceremony uniting… We invite you to share with us a celebration of love… We ask you to join us at the marriage of…We are thrilled to invite you to celebrate the union of… Our joy will be more complete if you will join us to celebrate… Please be our guest as we celebrate… With pride and joy, we invite you to share a special day in our lives as we… With pride and joy, we invite you to share a special day in our lives as our children (names) exchange marriage vows and begin their new life together…With joyous hearts, we invite you to attend the wedding of…",
+        "service_id": "5"
+    },
+    {
+        
+        "service_name": "Decoration",
+        "balance": "$2019.98",
+        "picture": "https://i.ibb.co/FmSqCfC/Decoration.jpg",
+        "rating": 4.8,
+        "details": "As a wedding planner, your job is to eliminate the stress couples feel when they are planning for their big day. Luckily, your organizational skills and natural knack for streamlining mean you know how not to accept all of that stress on to yourself. This is especially true when you apply modern technologies, such as text messaging, to your wedding planning business.As pointed out by Pew Research Center, more than 75% of adult Americans own a smartphone and 92% of smartphone owners use their phones to send and receive text messages. It is very wise, therefore, for wedding planners to use text messaging as a way to reach the people they need to connect with.",
+        "service_id": "6"
+    }
+]
